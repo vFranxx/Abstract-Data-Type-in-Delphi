@@ -1,4 +1,4 @@
-unit Ej3_NroBinario;
+unit Binarios;
 
 interface
 

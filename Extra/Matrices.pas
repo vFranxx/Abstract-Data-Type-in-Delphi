@@ -1,9 +1,9 @@
-unit Ej1_Matrices;
+unit Matrices;
 
 interface
 
 Uses
-  sysutils, Ej1_Vectores, Vcl.Grids;
+  sysutils, Vectores, Vcl.Grids;
 
 const
   Min = 0;
